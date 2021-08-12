@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>needit3</name>
+        <order>100</order>
+        <roles>x_58872_needit.needit3_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>pp408588</sys_created_by>
+        <sys_created_on>2021-08-11 11:56:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>449c4a931bf978104745206fe54bcb77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>needit3</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_application_449c4a931bf978104745206fe54bcb77</sys_update_name>
+        <sys_updated_by>pp408588</sys_updated_by>
+        <sys_updated_on>2021-08-11 11:56:11</sys_updated_on>
+        <title>needit3</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d8231e37db3244149df22f17d4961958</instance_id>
+        <instance_name>gsksand</instance_name>
+        <name>sys_app_application_449c4a931bf978104745206fe54bcb77</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>needit3</name><order>100</order><roles>x_58872_needit.needit3_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>pp408588</sys_created_by><sys_created_on>2021-08-11 11:56:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>449c4a931bf978104745206fe54bcb77</sys_id><sys_mod_count>0</sys_mod_count><sys_name>needit3</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_application_449c4a931bf978104745206fe54bcb77</sys_update_name><sys_updated_by>pp408588</sys_updated_by><sys_updated_on>2021-08-11 11:56:11</sys_updated_on><title>needit3</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-2062315168</payload_hash>
+        <record_name>needit3</record_name>
+        <reverted_from/>
+        <source>ded031571bb938104745206fe54bcb5f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pp408588</sys_created_by>
+        <sys_created_on>2021-08-11 11:56:11</sys_created_on>
+        <sys_id>049c4a931bf978104745206fe54bcb7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17b3511e9470000001</sys_recorded_at>
+        <sys_updated_by>pp408588</sys_updated_by>
+        <sys_updated_on>2021-08-11 11:56:11</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>0c9c4a93e6f97810182f1017261fd979</update_guid>
+        <update_guid_history>0c9c4a93e6f97810182f1017261fd979:-2062315168</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="needit3">dc8d4a971bf978104745206fe54bcb45</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pp408588</sys_created_by>
+        <sys_created_on>2021-08-11 12:00:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>266ae148da054ee0bdc81445ae374764</sys_id>
+        <sys_metadata>449c4a931bf978104745206fe54bcb77</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>needit3</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_application_449c4a931bf978104745206fe54bcb77</sys_update_name>
+        <sys_update_version display_value="sys_app_application_449c4a931bf978104745206fe54bcb77">049c4a931bf978104745206fe54bcb7a</sys_update_version>
+        <sys_updated_by>pp408588</sys_updated_by>
+        <sys_updated_on>2021-08-11 12:00:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
